@@ -7,7 +7,7 @@
 
 **Report Training automation testing**
 
- Final Project Sử Dụng Freamwork SeLenium with Python 
+ Final Project Sử Dụng Framework SeLenium with Python 
 
 **Hoàn Thành Các Yêu Cầu :**
 
