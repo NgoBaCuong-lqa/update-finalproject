@@ -3,7 +3,7 @@
 
 ***Project: Training Automation Test**
 
-***Date:08/05021**
+***Date:08/05/2021**
 
 **Report Training automation testing**
 
