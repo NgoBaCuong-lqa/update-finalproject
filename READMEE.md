@@ -9,6 +9,7 @@
  Final Project Sử Dụng Freamwork SeLenium with Python 
 
 **Hoàn Thành Các Yêu Cầu :**
+
 1	Viết automation script cho danh sách testcase 
 
 2	Tạo mỗi chức năng 1 test suite	
