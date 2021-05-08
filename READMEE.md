@@ -12,4 +12,5 @@
 - Chạy toàn bộ testcase bằng cách chạy file alltestSuit theo đường dẫn:
 My-Final-Project-main\FInalProjects\TestSuit\all_testsuit.py
 
-*![Output Alltestsuit]: "  chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=4&url=http%3A%2F%2Flocalhost%3A63342%2FUpdateFinalproject%2Ftest_report%2FTest%2520Report_2021-05-08_14-01-14.html%3F_ijt%3D450b5ej0mkl0e5e18urmhq7frl  "   
+*![Output Alltestsuit]: "  
+"   
